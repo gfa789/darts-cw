@@ -1,0 +1,18 @@
+File path,F1 score,TPR
+dart0.jpg,1.0,1.0
+dart1.jpg,0.0,0.0
+dart2.jpg,1.0,1.0
+dart3.jpg,0.0,0.0
+dart4.jpg,0.0,0.0
+dart5.jpg,1.0,1.0
+dart6.jpg,0.0,0.0
+dart7.jpg,1.0,1.0
+dart8.jpg,0.0,0.0
+dart9.jpg,1.0,1.0
+dart10.jpg,0.0,0.0
+dart11.jpg,0.6,0.3333333333333333
+dart12.jpg,0.0,0.0
+dart13.jpg,1.0,1.0
+dart14.jpg,0.5714285714285715,0.5
+dart15.jpg,1.0,1.0
+AVERAGES,0.5107142857142857,0.4895833333333333
